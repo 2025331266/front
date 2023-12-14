@@ -42,7 +42,7 @@
 							<div class="grid-content grid-con-1">
 								<el-icon class="grid-con-icon"><User /></el-icon>
 								<div class="grid-cont-right">
-									<div class="grid-num">1234</div>
+									<div class="grid-num">9999</div>
 									<div>用户访问量</div>
 								</div>
 							</div>
